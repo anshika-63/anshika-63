@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Anshika Verma - Developer Portfolio">
+</div>
+
 # Anshika Verma
 
 **B.Tech Mechanical Engineering Student | Python Development Intern**
