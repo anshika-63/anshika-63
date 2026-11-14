@@ -1,6 +1,9 @@
 
+
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Anshika Verma - Developer Portfolio">
+  <img src="./profile-banner.png"
+       width="100%"
+       alt="Anshika Verma - Python Developer">
 </div>
 
 # Anshika Verma
