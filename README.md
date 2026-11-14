@@ -1,46 +1,34 @@
-# Hey, I'm Anshika Verma! 👋
+# Anshika Verma
 
-### 💻 Aspiring Software Developer | Python Developer | Tech Enthusiast
+**B.Tech Mechanical Engineering Student | Python Development Intern**
 
-I'm a first-year B.Tech Mechanical Engineering student at Army Institute of Technology, Pune, with a strong interest in software development and technology.
+I'm currently pursuing B.Tech in Mechanical Engineering at Army Institute of Technology, Pune.
 
-I enjoy learning new skills, building projects, solving problems, and exploring how technology can create meaningful solutions.
+Alongside my academics, I'm exploring software development and improving my programming skills. I enjoy working on projects, learning new technologies and understanding how things work.
 
-### 🚀 About Me
+### About
 
-- 🎓 Pursuing B.Tech in Mechanical Engineering at AIT Pune
-- 💼 Python Development Intern at Uptoskills
-- 🌱 Currently strengthening my Python and Web Development skills
-- 💡 Interested in Software Development, AI and Technology
-- ⚡ Believe in learning by building and experimenting
+- Currently working as a Python Development Intern at Uptoskills.
+- Learning Python, HTML and CSS.
+- Interested in software development, AI and web development.
+- I believe in learning through practical experience and building projects.
 
-### 🛠️ Tech Stack
+### Skills
 
-- **Languages:** Python, HTML, CSS
-- **Tools:** Git, GitHub, VS Code
-- **Currently Exploring:** Software Development and AI
+Python · HTML · CSS · Git · GitHub
 
-### 📌 Featured Projects
+### Projects
 
-**1. AI-Based Duplicate Detection**
-- Python-based duplicate file detection using SHA-256 hashing.
-- [View Repository](https://github.com/anshika-63/AI-Duplicate-Detection)
+**AI-Based Duplicate Document & Near-Duplicate Image Detection**
 
-**2. Public Space Acoustic Classification**
-- A project focused on classifying acoustic environments.
-- [View Repository](https://github.com/anshika-63/Public-Space-Acoustic-Classification)
+Working on a project focused on identifying duplicate and similar documents and images.
 
-### 📊 GitHub Statistics
+**Public Space Acoustic Classification**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshika-63&show_icons=true&theme=tokyonight)
+Working on an acoustic classification project to explore how sound data can be used to identify different public-space environments.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-63&layout=compact&theme=tokyonight)
+### Connect
 
-### 🤝 Connect With Me
+- GitHub: (https://github.com/anshika-63)
+- LinkedIn: (https://www.linkedin.com/in/anshika-verma-636z/)
 
-- LinkedIn: [Anshika Verma](https://www.linkedin.com/in/anshika-verma-636z/)
-- GitHub: [@anshika-63](https://github.com/anshika-63)
-
----
-
-⭐ *Learning every day. Building step by step. Growing continuously.*
