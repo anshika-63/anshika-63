@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./animated-banner.gif"
+  <img src="./anshika_animated_github_banner.gif"
        width="100%"
        alt="Anshika Verma - Python Developer">
 </div>
