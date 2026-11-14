@@ -7,37 +7,67 @@
 </div>
 
 
-# Anshika Verma
+<p align="center">
+  <strong>Python Developer | Software Development | AI Enthusiast</strong>
+</p>
 
-**B.Tech Mechanical Engineering Student | Python Development Intern**
+<p align="center">
+  Building practical solutions through code and continuously exploring new technologies.
+</p>
 
-I'm currently pursuing B.Tech in Mechanical Engineering at Army Institute of Technology, Pune.
+---
 
-Alongside my academics, I'm exploring software development and improving my programming skills. I enjoy working on projects, learning new technologies and understanding how things work.
+## About Me
 
-### About
+I'm a B.Tech Mechanical Engineering student at Army Institute of Technology, Pune, with a growing interest in software development and artificial intelligence.
 
-- Currently working as a Python Development Intern at Uptoskills.
-- Learning Python, HTML and CSS.
-- Interested in software development, AI and web development.
-- I believe in learning through practical experience and building projects.
+Currently, I'm developing my programming skills through hands-on projects and practical learning. I enjoy understanding problems, exploring different approaches, and turning ideas into working solutions.
 
-### Skills
+I'm also gaining industry exposure as a Python Development Intern at Uptoskills.
 
-Python · HTML · CSS · Git · GitHub
+## Technical Skills
 
-### Projects
+**Programming:** Python
 
-**AI-Based Duplicate Document & Near-Duplicate Image Detection**
+**Web Technologies:** HTML, CSS
 
-Working on a project focused on identifying duplicate and similar documents and images.
+**Tools:** Git, GitHub, VS Code
 
-**Public Space Acoustic Classification**
+**Areas of Interest:** Software Development, Artificial Intelligence, Problem Solving
 
-Working on an acoustic classification project to explore how sound data can be used to identify different public-space environments.
+## Selected Projects
 
-### Connect
+### AI-Based Duplicate Detection
+A Python-based project focused on identifying duplicate documents and near-duplicate images.
 
-- GitHub: (https://github.com/anshika-63)
-- LinkedIn: (https://www.linkedin.com/in/anshika-verma-636z/)
+Repository: [AI-Duplicate-Detection](https://github.com/anshika-63/AI-Duplicate-Detection)
 
+### Public Space Acoustic Classification
+A project exploring acoustic data classification and the identification of different public-space sound environments.
+
+Repository: [Public-Space-Acoustic-Classification](https://github.com/anshika-63/Public-Space-Acoustic-Classification)
+
+## Currently Exploring
+
+- Strengthening Python programming and problem-solving.
+- Learning web development fundamentals.
+- Exploring AI and machine learning concepts.
+- Building practical software projects.
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshika-63&show_icons=true&theme=default&hide_border=true" height="150" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-63&layout=compact&theme=default&hide_border=true" height="150" alt="Most used languages">
+</div>
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/anshika-63">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/anshika-verma-636z/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <sub>Learning continuously. Building thoughtfully.</sub>
+</p>
