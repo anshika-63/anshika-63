@@ -1,10 +1,11 @@
 
 
 <div align="center">
-  <img src="./profile-banner.png"
+  <img src="./animated-banner.gif"
        width="100%"
        alt="Anshika Verma - Python Developer">
 </div>
+
 
 # Anshika Verma
 
