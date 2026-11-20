@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071510,50:087F5B,100:00D68F&height=200&section=header&text=ANSHIKA%20VERMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Building%20%7C%20Learning%20%7C%20Improving&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="banner.gif" width="100%" alt="Anshika Verma Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00D68F&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;B.Tech+Student+%F0%9F%8E%93;Exploring+Web+Development+%F0%9F%92%BB;Learning+AI+%26+Building+Projects+%F0%9F%A4%96" alt="Typing SVG" />
 
