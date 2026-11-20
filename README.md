@@ -12,7 +12,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding animation" width="180" src="https://raw.githubusercontent.com/Anshika-63/Anshika-63/main/coding.gif" />
+<img align="right" alt="Coding animation" width="220"
+src="https://raw.githubusercontent.com/anshika-63/anshika-63/main/Coding.gif" />
 
 - 🎓 B.Tech Student at Army Institute of Technology, Pune
 - 💼 Python Development Intern at UptoSkills
