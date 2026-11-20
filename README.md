@@ -1,117 +1,135 @@
+<!-- ✦ ANSHIKA VERMA | DEVELOPER PORTFOLIO -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B35,50:123B4A,100:00C9A7&height=190&section=header&text=ANSHIKA%20VERMA&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Developer%20%7C%20Learner%20%7C%20Tech%20Explorer&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/anshika-63/anshika-63/main/anshika_animated_github_banner.gif" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00DDB0&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Building+Projects+%26+Learning+Every+Day;Exploring+AI+%26+Web+Development;Turning+Ideas+Into+Reality+%E2%9C%A8"/>
+<br/>
 
-**B.Tech Student @ Army Institute of Technology, Pune**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00F5B8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Anshika+Verma+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Exploring+AI+%26+Web+Development+%F0%9F%A4%96;Building+Something+Cool+Every+Day+%E2%9C%A8" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-anshika--63-181717?style=for-the-badge&logo=github)](https://github.com/anshika-63)
+**B.Tech Student | Python Developer | Tech Explorer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anshika-verma-636z/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/anshika-63)
 
 </div>
 
 ---
 
-### ✦ About Me
+## `01` — About Me
 
-Hey! I'm **Anshika Verma**, a B.Tech student who loves exploring technology and building things through code.
+<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-- 🎓 B.Tech @ Army Institute of Technology, Pune
+Hey! I'm **Anshika**, a B.Tech student at Army Institute of Technology, Pune.
+
+I'm passionate about technology, programming and building things that solve real problems.
+
+- 🎓 B.Tech @ AIT Pune
 - 💻 Python Development Intern @ UptoSkills
-- 🐍 Interested in Python & Software Development
-- 🤖 Exploring Artificial Intelligence
-- 🌐 Learning modern Web Development
-- 🚀 Currently collaborating on an AI-powered project
+- 🐍 Exploring Python & problem solving
+- 🌐 Learning Full Stack Web Development
+- 🤖 Interested in AI & Machine Learning
+- 🚀 Always ready to learn something new
+
+<br clear="right"/>
 
 ---
 
-### ⚡ My Tech Stack
+## `02` — Tech Stack
 
-**Languages & Technologies I Know**
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode&theme=dark"/>
-</p>
+### Languages & Development
 
-**Currently Exploring**
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,mongodb&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
-</p>
+### Tools & Platforms
 
-*Learning and exploring new technologies one project at a time.*
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-### 🚀 What I'm Building
+## `03` — Featured Projects
 
-<a href="https://github.com/anshika-63/uptoskills-ai-assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshika-63&repo=uptoskills-ai-assistant&theme=tokyonight&hide_border=true"/>
-</a>
-
-**UptoSkills AI Assistant**
-
-Currently working on an AI Assistant project as part of a collaborative development team.
-
-**Project technologies:** React.js · Node.js · Express.js · MongoDB · AI
-
----
-
-### 💡 Other Projects
+<div align="center">
 
 <a href="https://github.com/anshika-63/AI-Duplicate-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshika-63&repo=AI-Duplicate-Detection&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshika-63&repo=AI-Duplicate-Detection&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/anshika-63/Public-Space-Acoustic-Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshika-63&repo=Public-Space-Acoustic-Classification&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshika-63&repo=Public-Space-Acoustic-Classification&theme=tokyonight&hide_border=true" />
 </a>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshika-63&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-63&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=anshika-63&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### 🌱 My Mindset
-
-```python
-class Anshika:
-    name = "Anshika Verma"
-    mindset = "Always Learning"
-    interests = ["Python", "AI", "Web Development"]
-
-    def my_motto(self):
-        return "Learn. Build. Grow. Repeat. 🚀"
-
-developer = Anshika()
-print(developer.my_motto())
-```
-
----
+## `04` — GitHub Analytics
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something Amazing!
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshika-63&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-63&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=anshika-63&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `05` — My Coding Philosophy
+
+<div align="center">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Anshika Verma"
+        self.mindset = "Always Learning"
+        self.goal = "Build Impactful Things"
+
+    def daily_routine(self):
+        return [
+            "Learn something new",
+            "Write some code",
+            "Build cool projects",
+            "Repeat 🔁"
+        ]
+
+me = Developer()
+```
+
+**Code. Create. Collaborate. Evolve.**
+
+</div>
+
+---
+
+## `06` — Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anshika-verma-636z/">
+<img src="https://img.shields.io/badge/LinkedIn-Anshika_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/anshika-63">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-anshika--63-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:101B35&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5B8,50:243B55,100:141E30&height=120&section=footer" width="100%"/>
 
-**"Keep learning. Keep creating. Keep evolving." ✨**
+*“The best way to predict the future is to build it.”* ✨
 
 </div>
+
+<!-- END OF PROFILE README -->
