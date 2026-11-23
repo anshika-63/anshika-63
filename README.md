@@ -75,6 +75,7 @@ Currently collaborating on an AI-powered assistant project.
 </p>
 
 <p align="center">
+ <a href="https://leetcode.com/u/anshika_611/">
 <img src="https://leetcard.jacoblin.cool/anshika_611?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" />
 </p>
 
