@@ -76,7 +76,7 @@ Currently collaborating on an AI-powered assistant project.
 
 <p align="center">
  <a href="https://leetcode.com/u/anshika_611/">
-<img src="https://leetcard.jacoblin.cool/anshika_611?theme=dark&font=Fira%20Code&ext=heatmap" width="40%" />
+<img src="https://leetcard.jacoblin.cool/anshika_611?theme=dark&font=Fira%20Code&ext=heatmap" width="50%" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Currently collaborating on an AI-powered assistant project.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=anshika-63&theme=dark&hide_border=true&ring=00D68F&fire=00D68F&currStreakLabel=00D68F" width="90%" />
+<img src="https://streak-stats.demolab.com?user=anshika-63&theme=dark&hide_border=true&ring=00D68F&fire=00D68F&currStreakLabel=00D68F" width="50%" />
 </p>
 
 ---
